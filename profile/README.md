@@ -8,8 +8,9 @@ The current team consists of:
 - ThaNightHawk (Frontend developer)
 - Futuremapper (Mod developer)
 - Raz0rbeam (Saber maker)
+- WildWolf (Advisor)
 
 # Planned features
 - Beat Saber mod (PC and Quest)
 - Discord bot integration
-~~- Patreon perks~~
+- ~~Patreon perks~~
