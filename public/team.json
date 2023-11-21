@@ -1,0 +1,63 @@
+{
+    "Team": {
+        "Artists": [
+            {
+                "Name": "Sands",
+                "Info": "Lead Artist",
+                "SQID": "76561198410971373",
+                "Discord": "366210991735701505",
+                "GitHub": null,
+                "Twitch": "sandsvr",
+                "Twitter": null,
+                "YouTube": "https://youtube.com/@SandsVR"
+            }
+        ],
+        "Backend": [
+            {
+                "Name": "StormPacer",
+                "Info": "Lead Developer",
+                "SQID": "76561198343533017",
+                "Discord": "482507481663275009",
+                "GitHub": "StormPacer",
+                "Twitch": "st0rmpacer",
+                "Twitter": "StormPacer",
+                "YouTube": null
+            }
+        ],
+        "Frontend": [
+            {
+                "Name": "NightHawk",
+                "Info": "Frontend Developer",
+                "SQID": "76561198086326146",
+                "Discord": "592779895084679188",
+                "GitHub": "ThaNightHawk",
+                "Twitch": "ThaNightHawk",
+                "Twitter": "ThaNightHawkTV",
+                "YouTube": null
+            },
+            {
+                "Name": "Raine",
+                "Info": "Frontend Developer",
+                "SQID": "76561199108042297",
+                "Discord": "813176414692966432",
+                "GitHub": "raineio",
+                "Twitch": "phyxxie_",
+                "Twitter": "raineaeternal",
+                "YouTube": null
+            }
+        ],
+        "Mod": [
+            {
+                "Name": "FutureMapper",
+                "Info": "Mod Developer",
+                "SQID": "76561198380176668",
+                "Discord": "1163263452098347118",
+                "GitHub": "Futuremappermydud",
+                "Twitch": null,
+                "Twitter": "Futuremapper_",
+                "YouTube": null
+            }
+        ],
+        "Other Contributors": []
+    }
+}
