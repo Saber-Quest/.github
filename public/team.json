@@ -12,7 +12,7 @@
                 "YouTube": "https://youtube.com/@SandsVR"
             }
         ],
-        "Backend": [
+        "Developers": [
             {
                 "Name": "StormPacer",
                 "Info": "Lead Developer",
@@ -22,12 +22,10 @@
                 "Twitch": "st0rmpacer",
                 "Twitter": "StormPacer",
                 "YouTube": null
-            }
-        ],
-        "Frontend": [
+            },
             {
                 "Name": "NightHawk",
-                "Info": "Frontend Developer",
+                "Info": "Front-/Back-end Developer",
                 "SQID": "76561198086326146",
                 "Discord": "592779895084679188",
                 "GitHub": "ThaNightHawk",
@@ -45,6 +43,8 @@
                 "Twitter": "raineaeternal",
                 "YouTube": null
             }
+        ],
+        "Frontend": [
         ],
         "Mod": [
             {
