@@ -24,8 +24,18 @@
                 "YouTube": null
             },
             {
+                "Name": "Raine",
+                "Info": "Front/Backend Developer",
+                "SQID": "76561199108042297",
+                "Discord": "813176414692966432",
+                "GitHub": "raineio",
+                "Twitch": "RaineAeternal",
+                "Twitter": "raineaeternal",
+                "YouTube": null
+            },
+            {
                 "Name": "NightHawk",
-                "Info": "Front-/Back-end Developer",
+                "Info": "Frontend Developer",
                 "SQID": "76561198086326146",
                 "Discord": "592779895084679188",
                 "GitHub": "ThaNightHawk",
@@ -33,20 +43,6 @@
                 "Twitter": "ThaNightHawkTV",
                 "YouTube": null
             },
-            {
-                "Name": "Raine",
-                "Info": "Frontend Developer",
-                "SQID": "76561199108042297",
-                "Discord": "813176414692966432",
-                "GitHub": "raineio",
-                "Twitch": "RaineAeternal",
-                "Twitter": "raineaeternal",
-                "YouTube": null
-            }
-        ],
-        "Frontend": [
-        ],
-        "Mod": [
             {
                 "Name": "FutureMapper",
                 "Info": "Mod Developer",
@@ -57,6 +53,10 @@
                 "Twitter": "Futuremapper_",
                 "YouTube": null
             }
+        ],
+        "Frontend": [
+        ],
+        "Mod": [
         ],
         "Other Contributors": []
     }
