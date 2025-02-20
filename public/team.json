@@ -15,48 +15,38 @@
         "Developers": [
             {
                 "Name": "StormPacer",
-                "Info": "Lead",
+                "Info": "Lead Developer",
                 "SQID": "76561198343533017",
                 "Discord": "482507481663275009",
                 "GitHub": "StormPacer",
                 "Twitch": "st0rmpacer",
                 "Twitter": "StormPacer",
                 "YouTube": null
-            },
-            {
-                "Name": "Raine",
-                "Info": "Front/Backend",
-                "SQID": "76561199108042297",
-                "Discord": "813176414692966432",
-                "GitHub": "raineio",
-                "Twitch": "RaineAeternal",
-                "Twitter": "raineaeternal",
-                "YouTube": null
-            },
+            }
+        ],
+        "Frontend": [
             {
                 "Name": "NightHawk",
-                "Info": "Frontend",
+                "Info": "Frontend Developer",
                 "SQID": "76561198086326146",
                 "Discord": "592779895084679188",
                 "GitHub": "ThaNightHawk",
                 "Twitch": "ThaNightHawk",
                 "Twitter": "ThaNightHawkTV",
                 "YouTube": null
-            },
-            {
-                "Name": "FutureMapper",
-                "Info": "Mod",
-                "SQID": "76561198380176668",
-                "Discord": "1163263452098347118",
-                "GitHub": "Futuremappermydud",
-                "Twitch": null,
-                "Twitter": "Futuremapper_",
-                "YouTube": null
             }
         ],
-        "Frontend": [
-        ],
         "Mod": [
+            {
+                "Name": "Riley",
+                "Info": "Mod Developer",
+                "SQID": null,
+                "Discord": "532063399069351947",
+                "GitHub": "speecil",
+                "Twitch": "speecil",
+                "Twitter": "speecilBS",
+                "YouTube": "https://youtube.com/channel/UCESLtKT2ecTxIHqfAuhl_zQ"
+            }
         ],
         "Other Contributors": []
     }
