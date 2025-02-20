@@ -22,9 +22,7 @@
                 "Twitch": "st0rmpacer",
                 "Twitter": "StormPacer",
                 "YouTube": null
-            }
-        ],
-        "Frontend": [
+            },
             {
                 "Name": "NightHawk",
                 "Info": "Frontend Developer",
@@ -34,9 +32,7 @@
                 "Twitch": "ThaNightHawk",
                 "Twitter": "ThaNightHawkTV",
                 "YouTube": null
-            }
-        ],
-        "Mod": [
+            },
             {
                 "Name": "Riley",
                 "Info": "Mod Developer",
@@ -48,6 +44,8 @@
                 "YouTube": "https://youtube.com/channel/UCESLtKT2ecTxIHqfAuhl_zQ"
             }
         ],
+        "Frontend": [],
+        "Mod": [],
         "Other Contributors": []
     }
 }
